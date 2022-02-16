@@ -21,5 +21,5 @@ const wordSearch = (letters, word) => {
   }
   return false;
 };
-
+// Did Pair Programming with Justin Mulroney
 module.exports = wordSearch;
